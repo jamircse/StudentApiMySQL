@@ -1,5 +1,6 @@
 # StudentAPIMySQL Application
-
+### https://studentapimysql.jamirhossain.repl.co/  
+### [Middleware function to restrict API access to specific hours and days] Check if it's Sunday to Thursday and between 10am to 7pm and open else it show {"error":"API access is restricted at this time."}
 Welcome to the StudentAPIMySQL application! This application provides a RESTful API to manage student information using a MySQL database. It allows you to perform basic CRUD (Create, Read, Update, Delete) operations on student records.
 
 ## Table of Contents
